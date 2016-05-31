@@ -15,6 +15,7 @@
     "lib"
   ],
   "dependencies": {
+    "ejs": "~2.4.2"
   },
   "devDependencies": {
     "conventional-changelog-cli": "~1.1.1",
@@ -23,6 +24,9 @@
     "istanbul": "~0.4.1",
     "mocha": "~2.4.5",
     "should": "~8.3.1"
+  },
+  "plover": {
+    "plugin": "lib/plugin"
   },
   "repository": {
     "type": "git",
