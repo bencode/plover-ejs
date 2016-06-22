@@ -1,4 +1,4 @@
-# plover-module-template
+# plover-ejs
 
 
 [![NPM version][npm-image]][npm-url]
